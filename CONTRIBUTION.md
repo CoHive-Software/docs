@@ -17,7 +17,7 @@
 - PR to ORGANIZATION's main
   - We will review <= 48 hours
 
-# Contributor Documents:
+# How to Be Assigned to Projects:
 
 1. [Discord Projects Forum](https://discord.gg/6SQVNFuT) - This will be where new projects appear. Please react and comment on these tickets to indicate your interest.
 2. [CoHive Contributor Google Sheet](https://docs.google.com/spreadsheets/d/1SJh6vwCMvt3bLdduPu461B226AfwCglzGdHAbSPjDeM/edit#gid=0) - This will be where you designate your areas of interest and availability: Sales, Design, Develop, Document
