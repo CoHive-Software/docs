@@ -20,9 +20,12 @@
 
 # How to be assigned to projects:
 
-1. This will be where new projects appear. Please react and comment on these tickets to indicate your interest: [Discord Projects Forum](https://discord.gg/6SQVNFuT) 
-2. This will be where you designate your areas of interest and availability: Sales, Design, Develop, Document: [CoHive Contributor Google Sheet](https://docs.google.com/spreadsheets/d/1SJh6vwCMvt3bLdduPu461B226AfwCglzGdHAbSPjDeM/edit#gid=0)
-3. This queue will pull the most recently created team members to the bottom in order to give everyone an opportunity to work: [Queue](https://toBeCreated.com)
+1. [Discord Projects Forum](https://discord.gg/6SQVNFuT)
+   - This will be where new projects appear. Please react and comment on these tickets to indicate your interest:
+2. [CoHive Contributor Google Sheet](https://docs.google.com/spreadsheets/d/1SJh6vwCMvt3bLdduPu461B226AfwCglzGdHAbSPjDeM/edit#gid=0)
+   - This will be where you designate your areas of interest and availability: Sales, Design, Develop, Document: 
+3. [Queue](https://toBeCreated.com)
+   - This queue will pull the most recently created team members to the bottom in order to give everyone an opportunity to work: 
 
 
 # Roles:
