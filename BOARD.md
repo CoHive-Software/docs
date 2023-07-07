@@ -22,6 +22,7 @@
 | @codingMustache      | *@codingmustache.com           | jorge carvajal       |
 | @JessicaTorres-debug | jessicatorres.debug@gmail.com  | jessica torres       |
 | @opsparkbtc          | brendantcarmichael@gmail.com   | brendan carmichael   |
+| @matthewpmi          | mpmekita@gmail.com             | matthew mekita       |
 
 
 The members of the board will be responsible for overseeing the organizational workflow and administering help where designated from weekly standups
