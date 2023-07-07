@@ -1,6 +1,6 @@
 # These are the Members of the Board:
 
-### Board Responsibilities
+## Board Responsibilities
 ---
 - SUGGEST POLICIES FOR VOTE
 - DECIDE MONEY THRESHOLD (WHO GETS PAID?)
@@ -15,7 +15,7 @@
                 - ONCE DETERMINED, ADD TEAM MEMBERS TO THIS [Project Assignees Sheet](https://docs.google.com/spreadsheets/d/1IGHDlYuAeU_J4DGDyoRcAZOaE3TUo5O1A5Ij-fKgdiQ/edit?usp=sharing)
 - OVERSEE CONTRACTS (PER WEEKLY STANDUP: DEADLINES, ETC)
 
-### Contact
+## Contact
 
 | GitHub               | Email                          | Name                 |
 | -------------------- | ------------------------------ | -------------------- |
