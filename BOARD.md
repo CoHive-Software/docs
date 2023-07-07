@@ -1,6 +1,6 @@
 # These are the Members of the Board:
 
-### BOARD RESPONSIBILITIES
+### Board Responsibilities
 - SUGGEST POLICIES FOR VOTE
 - DECIDE MONEY THRESHOLD (WHO GETS PAID?)
 - ESTABLISH WORKFLOW PER PROJECT (OR PROJECT MANAGER RESPONSIBILITY?)
@@ -13,7 +13,7 @@
 			- QUEUE OF WHO HAS WORKED MOST RECENTLY
 - OVERSEE CONTRACTS (PER WEEKLY STANDUP: DEADLINES, ETC)
 
-### CONTACT
+### Contact
 
 | GitHub               | Email                          | Name                 |
 | -------------------- | ------------------------------ | -------------------- |
