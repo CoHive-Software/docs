@@ -1,0 +1,26 @@
+# These are the Members of the Board:
+
+### BOARD RESPONSIBILITIES
+- SUGGEST POLICIES FOR VOTE
+- DECIDE MONEY THRESHOLD (WHO GETS PAID?)
+- ESTABLISH WORKFLOW PER PROJECT (OR PROJECT MANAGER RESPONSIBILITY?)
+- ESTABLISH TEAMS FOR PROJECTS
+	- POLICY: SELF-ELECTED TEAMS:
+		- DEVS SELF-ASSIGN VIA DISCORD FORUM (WHERE TO LOOK / WHEN ?)
+		- BOARD MEMBER CROSS-REFERENCES DOCS:
+			- DISCORD SELF-ASSIGN FORUM
+			- WEEKLY CONTRIBUTOR SHEET: DESIGN / PM / ENGINEER AVAILABILITY
+			- QUEUE OF WHO HAS WORKED MOST RECENTLY
+- OVERSEE CONTRACTS (PER WEEKLY STANDUP: DEADLINES, ETC)
+
+### CONTACT
+
+| GitHub               | Email                          | Name                 |
+| -------------------- | ------------------------------ | -------------------- |
+| @colinwilliams91     | colin.williams.dev@gmail.com   | colin williams       |
+| @codingMustache      | *@codingmustache.com           | jorge carvajal       |
+| @JessicaTorres-debug | jessicatorres.debug@gmail.com  | jessica torres       |
+| @opsparkbtc          | brendantcarmichael@gmail.com   | brendan carmichael   |
+
+
+The members of the board will be responsible for overseeing the organizational workflow and administering help where designated from weekly standups
