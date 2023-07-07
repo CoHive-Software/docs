@@ -28,7 +28,7 @@
 # Roles:
 | Contributor | Sales | Design | Develop | Document | X | Total Hours |
 | ----------- | ----- | ------ | ------- | -------- | - | ----------- |
-| Your Name   | num   |  of    |  hours  | per role |   |             |
+| Your Name   | num   |  of    |  hours  | per role |   | weekly total|
 
 
 # Payment:
