@@ -1,6 +1,7 @@
 # Contribution Protocol:
 
 - Join the [Discord](https://discord.gg/MA2jZYbh)
+  - Follow these [steps](./#How-to-be-assigned-to-projects)
   - Standups are held weekly in this server on Wednesdays at 12:00pm (CST)
 - Fill out the [CoHive Contributor Weekly Availability](https://docs.google.com/spreadsheets/d/1SJh6vwCMvt3bLdduPu461B226AfwCglzGdHAbSPjDeM/edit?usp=sharing) Google Sheet following the format [here](#Roles) to designate which Roles/Responsibilities you can contribute to.
 - Each team will need at least one of each of the following:
@@ -17,15 +18,17 @@
 - PR to ORGANIZATION's main
   - We will review <= 48 hours
 
-# How to Be Assigned to Projects:
+# How to be assigned to projects:
 
-1. [Discord Projects Forum](https://discord.gg/6SQVNFuT) - This will be where new projects appear. Please react and comment on these tickets to indicate your interest.
-2. [CoHive Contributor Google Sheet](https://docs.google.com/spreadsheets/d/1SJh6vwCMvt3bLdduPu461B226AfwCglzGdHAbSPjDeM/edit#gid=0) - This will be where you designate your areas of interest and availability: Sales, Design, Develop, Document
-3. [Queue](https://toBeCreated.com) - This queue will pull the most recently created team members to the bottom in order to give everyone an opportunity to work.
+1. This will be where new projects appear. Please react and comment on these tickets to indicate your interest: [Discord Projects Forum](https://discord.gg/6SQVNFuT) 
+2. This will be where you designate your areas of interest and availability: Sales, Design, Develop, Document: [CoHive Contributor Google Sheet](https://docs.google.com/spreadsheets/d/1SJh6vwCMvt3bLdduPu461B226AfwCglzGdHAbSPjDeM/edit#gid=0)
+3. This queue will pull the most recently created team members to the bottom in order to give everyone an opportunity to work: [Queue](https://toBeCreated.com)
 
 
 # Roles:
-
+| Contributor | Sales | Design | Develop | Document | X | Total Hours |
+| ----------- | ----- | ------ | ------- | -------- | - | ----------- |
+| Your Name   | num   |  of    |  hours  | per      |   |             |
 
 
 # Payment:
