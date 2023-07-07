@@ -9,4 +9,4 @@ Each developer will be expected to uphold this contribution protocol:
 2. [Contribution](./CONTRIBUTION.md)
 
 ## Team Delegation/Deployment
-Please see the [How to Be Assigned to Projects](./CONTRIBUTION.md#How-to-Be-Assigned-to-Projects) section pertaining to how you will be delegated to Projects.
+Please see the [How to be assigned to projects](./CONTRIBUTION.md#How-to-Be-Assigned-to-Projects) section pertaining to how you will be delegated to Projects.
