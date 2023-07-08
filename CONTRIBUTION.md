@@ -25,7 +25,8 @@
 2. [CoHive Contributor Google Sheet](https://docs.google.com/spreadsheets/d/1SJh6vwCMvt3bLdduPu461B226AfwCglzGdHAbSPjDeM/edit#gid=0)
    - This will be where you designate your areas of interest and availability: Sales, Design, Develop, Document: 
 3. [Queue](https://toBeCreated.com) (BOARD ONLY)
-   - This queue will pull the most recently created team members to the bottom in order to give everyone an opportunity to work: 
+   - This queue will pull the most recently created team members to the bottom in order to give everyone an opportunity to work:
+Once you have been assigned a team, one of the team members will be assigned "Project Manager" role and delegate tasks in the [Trello Workspace](https://trello.com/w/cohivesoftware)
 
 
 # Roles:
