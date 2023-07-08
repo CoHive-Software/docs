@@ -33,7 +33,7 @@ _Once you have been assigned a team, one of the team members will be assigned "P
 # Roles:
 | Contributor | Sales | Design | Develop | Document | X | Total Hours |
 | ----------- | ----- | ------ | ------- | -------- | - | ----------- |
-| Your Name   | num   |  of    |  hours  | per role |   | weekly total|
+| _Your Name_   | _num_   |  _of_    |  _hours_  | _per role_ |   | _weekly total_ |
 
 
 # Payment:
