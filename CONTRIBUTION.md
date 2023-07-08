@@ -27,7 +27,7 @@
 3. [Queue](https://toBeCreated.com) (BOARD ONLY)
    - This queue will pull the most recently created team members to the bottom in order to give everyone an opportunity to work:
 
-Once you have been assigned a team, one of the team members will be assigned "Project Manager" role and delegate tasks in the [Trello Workspace](https://trello.com/w/cohivesoftware)
+_Once you have been assigned a team, one of the team members will be assigned "Project Manager" role and delegate tasks in the [Trello Workspace](https://trello.com/w/cohivesoftware)_
 
 
 # Roles:
