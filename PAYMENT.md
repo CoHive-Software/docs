@@ -1,6 +1,8 @@
 # Payment Threshold
 ### All members regardless of role or Board affiliation will be paid ONE equal share if they exceed 65% of their estimated contribution availability/estimate
 
+---
+
 - Trellow Workspace KanBan Boards will be evaluated **INTERNALLY** and **EXTERNALLY** (by team members, team-pm and board members) and **TEAM-MEMBERS ARE RESPONSIBLE FOR PEER REVIEW OF CONTRIBUTION**
   - **AT <= 75% OF WEEKLY CONTRIBUTION ESTIMATE PLEASE DISCUSS RE-EVALUATION WITH CONSIDERED TEAM MEMBER**
   - **AT <= 65% OF WEEKLY CONTRIBUTION ESTIMATE PLEASE ADJUST TICKET DISTRIBUTION AS THIS MEMBER WILL NOT BE CONSIDERED FOR PAYMENT AT THIS DELIVERY PERCENTAGE**
