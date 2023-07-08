@@ -1,4 +1,4 @@
-# This first iteration of The Board have been self-elected based on interest:
+# This first iteration of The Board have been elected based on interest:
 ### The Board will be maintained through an organization-wide democratic voting process 
 
 ## Board Responsibilities
