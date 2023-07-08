@@ -1,4 +1,5 @@
-# These are the Members of the Board:
+# This first iteration of The Board have been self-elected based on interest:
+### The Board will be maintained through an organization-wide democratic voting process 
 
 ## Board Responsibilities
 - SUGGEST POLICIES FOR VOTE
