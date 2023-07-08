@@ -36,5 +36,5 @@ _Once you have been assigned a team, one of the team members will be assigned "P
 | _Your Name_   | _num_   |  _of_    |  _hours_  | _per role_ |   | _weekly total_ |
 
 
-# Payment:
-There is a mandatory threshold of work/contribution that will be monitored by [The Board](./BOARD.md) to designate which members are eligible for payment. All eligible members will be paid equal amounts.
+# [Payment](./PAYMENT.md):
+The mandatory threshold of work/contribution is >65% of your estimated weekly availability, this will be monitored by [The Board](./BOARD.md) to designate which members are eligible for payment per **deliverable**. All eligible members will be paid **equal amounts**.
