@@ -1,7 +1,7 @@
 # Contribution Protocol:
 
 - Join the [Discord](https://discord.gg/MA2jZYbh)
-  - Follow these [steps](./#How-to-be-assigned-to-projects)
+  - Follow these [steps](#How-to-be-assigned-to-projects)
   - Standups are held weekly in this server on Wednesdays at 12:00pm (CST)
 - Fill out the [CoHive Contributor Weekly Availability](https://docs.google.com/spreadsheets/d/1SJh6vwCMvt3bLdduPu461B226AfwCglzGdHAbSPjDeM/edit?usp=sharing) Google Sheet following the format [here](#Roles) to designate which Roles/Responsibilities you can contribute to.
 - Each team will need at least one of each of the following:
