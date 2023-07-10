@@ -29,7 +29,7 @@
    - This will be where you designate your areas of interest and availability: **Sales, Design, Develop, Document** 
 3. [Queue](https://trello.com/invite/b/uEa6SxkM/ATTI13c0f88b714a7ab7c8335648628c23afCC7AF9E6/cohive-company-pipeline) (BOARD ONLY)
    - This queue will pull the most recently created team members to the bottom in order to give everyone an opportunity to work
-   - _Board_: Replace "BENCH" label with "DEPLOYED" label as team members are assigned roles and move them to bottom of "Developer Queue" lane
+   - _BOARD_: Replace "BENCH" label with "DEPLOYED" label as team members are assigned roles and move them to bottom of "Developer Queue" lane
 
 _Once you have been assigned a team, one of the team members will be assigned "Project Manager" role and delegate tasks in the [Trello Workspace](https://trello.com/w/cohivesoftware)_
 
