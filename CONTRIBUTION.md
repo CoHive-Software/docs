@@ -9,7 +9,7 @@
     - Designer
     - Developer
 - Your Project Manager (PM) will describe each team's workflow in your repository's README.md
-- (PM) Take this [DOCUMENT](./DEVELOPMENT.md) as your README.md template
+- (PM) Copy this [DOCUMENT](./DEVELOPMENT.md) as your README.md template
     - Each team's workflow should follow this general outline:
       - Star and Fork the repository you have been assigned
         - `git clone` the repository to your local
