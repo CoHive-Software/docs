@@ -50,10 +50,12 @@ decisions when appropriate.
 
 * Development teams are responsible for reporting violations of code of conduct or
   failure to contribute to the minimum requirements.
-* Upon development team majoriy of reports for an individual member, the individual
+* Upon reports from majority of development team for an individual member, the individual
   will be removed from the development team.
 * Upon removal from TWO development teams in this manor, individual will be considered
   for expulsion from the company.
+* CoHive Software LLC will not be held responsible for member expulsion in regards
+  to exit payment. See "Article VII: Transfers" of CoHive Software LLC Operating Agreement
 
 ## Scope
 
