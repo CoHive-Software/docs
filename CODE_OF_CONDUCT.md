@@ -69,7 +69,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-colin.williams.dev@gmail.com.
+cohive.software@gmail.com
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -77,7 +77,7 @@ reporter of any incident.
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining
+Board Members will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
@@ -101,25 +101,26 @@ includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
 
-### 3. Temporary Ban
+### 3. Removal from Development Team
 
 **Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+sustained inappropriate behavior, reported by members constituting majority of team.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**Consequence**: A removal from development team and a single strike out of a maximum of two
+will be added to the member's profile. No public or private interaction with the people involved,
+including unsolicited interaction with those enforcing the Code of Conduct, is allowed during
+this period. Violating these terms may lead to a permanent ban.
 
-### 4. Permanent Ban
+### 4. Company Expulsion
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
+**Community Impact**: A second "Removal from Development Team" or demonstrating a pattern
+of violation of community standards, including sustained inappropriate behavior,  harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+**Consequence**: Member will be removed from CoHive Software LLC and company payroll,
+resolving pending pay period. Following "Article VII" of the Operating Agreement,
+Member will be expelled with a net 0 valuation of interest and capital contribution.
+A permanent ban from any sort of public interaction within the community.
 
 ## Attribution
 
