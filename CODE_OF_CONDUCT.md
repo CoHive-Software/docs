@@ -36,14 +36,6 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-New Member probationary period:
-
-* 
-
-Member mandatory participation requirements include:
-
-* 
-
 ## Enforcement Responsibilities
 
 All members are responsible for clarifying and enforcing our standards of
@@ -55,6 +47,13 @@ LLC Managers/Board Members have the right and responsibility to remove, edit, or
 comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
+
+* Development teams are responsible for reporting violations of code of conduct or
+  failure to contribute to the minimum requirements.
+* Upon development team majoriy of reports for an individual member, the individual
+  will be removed from the development team.
+* Upon removal from TWO development teams in this manor, individual will be considered
+  for expulsion from the company.
 
 ## Scope
 
