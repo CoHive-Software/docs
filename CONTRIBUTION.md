@@ -31,7 +31,7 @@
    - This queue will pull the most recently created team members to the bottom in order to give everyone an opportunity to work
    - _BOARD_: Replace "BENCH" label with "DEPLOYED" label as team members are assigned roles and move them to bottom of lane
 4. **Once development teams have been drafted you will be contacted to verify your interest, assigned role and estimated availability**
-   - At this time you may "approve" and join the team or "pass" in which case the member next in the queue will be offered the position.
+   - At this time you may **"approve"** and join the team or **"pass"** in which case the member next in the queue will be offered the position.
 
 _Once you have been assigned a team, one of the team members will be assigned "Project Manager" role and delegate tasks in the [Trello Workspace](https://trello.com/w/cohivesoftware)_
 
