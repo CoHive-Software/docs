@@ -30,6 +30,8 @@
 3. [Trello Dev Queue](https://trello.com/invite/b/uEa6SxkM/ATTI13c0f88b714a7ab7c8335648628c23afCC7AF9E6/cohive-company-pipeline) (BOARD ONLY)
    - This queue will pull the most recently created team members to the bottom in order to give everyone an opportunity to work
    - _BOARD_: Replace "BENCH" label with "DEPLOYED" label as team members are assigned roles and move them to bottom of lane
+4. Once development teams have been drafted you will be contacted to verify your interest, assigned role and estimated availability
+   - At this time you may "approve" and join the team or "pass" in which case the member next in the queue will be offered the position.
 
 _Once you have been assigned a team, one of the team members will be assigned "Project Manager" role and delegate tasks in the [Trello Workspace](https://trello.com/w/cohivesoftware)_
 
@@ -37,7 +39,7 @@ _Once you have been assigned a team, one of the team members will be assigned "P
 # Roles:
 | Contributor | Sales | Design | Develop | Document | X | Total Hours |
 | ----------- | ----- | ------ | ------- | -------- | - | ----------- |
-| _Your Name_   | _num_   |  _of_    |  _hours_  | _per role_ |   | _weekly total_ |
+| _Your Name_ | _num_ |  _of_  |  _hours_|_per role_|   |_weekly total_|
 
 
 # [Payment](./PAYMENT.md):
