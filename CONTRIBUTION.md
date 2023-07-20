@@ -2,6 +2,7 @@
 
 - Join the [Discord](https://discord.gg/Nzc6Xxdt5X)
   - Company standups are held twice weekly in this server on Monday and Thursday at 12:00pm (CST)
+  - Refer to this Calendar to be notified for [Events](https://calendar.google.com/calendar/u/0?cid=NzI2YWNjYjVjYTZlYjE2ZjIyYTZhNWExNTRmY2Y1ZDNmMDY5NDBhMTllZWM5ODljMTA4ZDE3ZDM1NDVkNGE4YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - Fill out the [CoHive Contributor Weekly Availability](https://docs.google.com/spreadsheets/d/1SJh6vwCMvt3bLdduPu461B226AfwCglzGdHAbSPjDeM/edit?usp=sharing) Google Sheet following the format [here](#Roles) to designate which Roles/Responsibilities you can contribute to.
 - Follow these [steps](#How-to-be-assigned-to-projects) to self-assign to current projects.
 - The Board will follow the below procedure on deploying teams. Teams will need at least one of each of the following:
@@ -35,6 +36,7 @@
    - At this time you may **"approve"** and join the team or **"pass"** in which case the member next in the queue will be offered the position.
 5. **From this point on** look to the project's specific channel in the lower portion of the discord server where you and your team will be given Team Discord Roles
    - This will become the main lane for communication post team initialization.
+   - PM will be responsible for adding Standups to this [Calendar](https://calendar.google.com/calendar/u/0?cid=NzI2YWNjYjVjYTZlYjE2ZjIyYTZhNWExNTRmY2Y1ZDNmMDY5NDBhMTllZWM5ODljMTA4ZDE3ZDM1NDVkNGE4YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ### NOTE:
 _Once you have been assigned a team, one of the team members will be assigned "Project Manager" role and delegate tasks in the [Trello Workspace](https://trello.com/w/cohivesoftware)_
