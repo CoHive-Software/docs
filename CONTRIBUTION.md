@@ -1,7 +1,7 @@
 # Contribution Protocol:
 
 - Join the [Discord](https://discord.gg/dmwWw5Rq) (_if this link is expired please open an Issue_)
-  - Standups are held twice weekly in this server, one before Weds. one after Weds, at 12:00pm (CST)
+  - Company standups are held twice weekly in this server on Monday and Thursday at 12:00pm (CST)
 - Fill out the [CoHive Contributor Weekly Availability](https://docs.google.com/spreadsheets/d/1SJh6vwCMvt3bLdduPu461B226AfwCglzGdHAbSPjDeM/edit?usp=sharing) Google Sheet following the format [here](#Roles) to designate which Roles/Responsibilities you can contribute to.
 - Follow these [steps](#How-to-be-assigned-to-projects) to self-assign to current projects.
 - The Board will follow the below procedure on deploying teams. Teams will need at least one of each of the following:
