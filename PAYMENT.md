@@ -7,7 +7,7 @@ All revenue will be funneled into CoHive Payroll Coffers. From there, `x%`, `y%`
 ### y: Project contributor y% (tbd)
   -  This refers to the >64% hour availability/contribution threshold per individual. If you meet this threshold you will be eligible to `company-payout / contributors` percentage.
 ### z: Unpaid project/Infrastructure contributor z% (tbd)
-  -  This `z% === y% * 0.5`
+  -  This share is equivalent to this formula `z% === y% * 0.5`
   -  _Ex_: You work on an unpaid project that goes on the CoHive Site Portfolio. When Payroll is divied up you are elligible for a `(company-payout / contributors) / 2` 
 
 ## Payment Threshold
