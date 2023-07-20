@@ -20,6 +20,7 @@ All revenue will be funneled into CoHive Payroll Coffers. From there, `x%`, `y%`
 - ALL MEMBERS WHO UPHOLD THEIR CONTRIBUTION ESTIMATES (**ASSIGNED USER-STORIES/TICKETS AND PRs TO UPSTREAM MAIN**) UPON CONTRACT FULFILLMENT, WILL BE PAID EQUAL PERCENTAGE PAYOUTS
   - If team member's contribution needs to be re-evaluated PLEASE approach with respect and consider [CONTRIBUTION_REEVALUATION](./CONTRIBUTION_REEVALUATION)
   - Team members must **ADJUST** each others **USER-STORY/TICKET ASSIGNMENT** for **CONTRIBUTION EVALUATION AFTER ADJUSTMENT IS DISCUSSED**.
+    - Talk with your Project Manager (PM) to re-allocate hours that were built into estimated workload
 
 ## tl;dr
 Payouts will be company wide with 3 different options for Members to be elligible for a share. Finders Fee will be deducted from Contract sale prior to entering company coffers. Two remaining shares will be divided by # of contributors. 
