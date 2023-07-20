@@ -39,7 +39,7 @@
 ### NOTE:
 _Once you have been assigned a team, one of the team members will be assigned "Project Manager" role and delegate tasks in the [Trello Workspace](https://trello.com/w/cohivesoftware)_
 ### NOTE:
-_Members who are not assigned to the team officially are still welcome to observe/contribute on a **volunteer** basis (appreciated, but not counted towards your hourly contribution)_
+_Audit: Members who are not assigned to the team officially are still welcome to observe/contribute on a **volunteer** basis (appreciated, but not counted towards your hourly contribution)_
 
 # Roles:
 | Contributor | Sales | Design | Develop | Document | X | Total Hours |
