@@ -27,6 +27,7 @@
    - This will be where new projects appear. Please react and comment on these tickets to indicate your interest
 2. [CoHive Contributor Google Sheet](https://docs.google.com/spreadsheets/d/1SJh6vwCMvt3bLdduPu461B226AfwCglzGdHAbSPjDeM/edit?usp=sharing)
    - This will be where you designate your areas of interest and availability: **Sales, Design, Develop, Document** 
+   - For internal Team Management refer to this [Sheet](https://docs.google.com/spreadsheets/d/1IGHDlYuAeU_J4DGDyoRcAZOaE3TUo5O1A5Ij-fKgdiQ/edit#gid=0)
 3. [Trello Dev Queue](https://trello.com/invite/b/uEa6SxkM/ATTI13c0f88b714a7ab7c8335648628c23afCC7AF9E6/cohive-company-pipeline) (BOARD ONLY)
    - This queue will pull the most recently created team members to the bottom in order to give everyone an opportunity to work
    - _BOARD_: Replace "BENCH" label with "DEPLOYED" label as team members are assigned roles and move them to bottom of lane
