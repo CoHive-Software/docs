@@ -1,5 +1,16 @@
-# Payment Threshold
-### All members regardless of role or Board affiliation will be paid ONE equal share if they exceed 65% of their estimated contribution availability/estimate
+# 3 Revenue Stream Model
+
+All revenue will be funneled into CoHive Payroll Coffers. From there, `x%`, `y%` and `z%` will be distributed based on three separate criteria. 
+
+### x: Finders fee / making a sale 33% (tbd)
+  -  This will go directly to the individual who has generated the contract and deducted from revenue before entering CoHive Payroll Coffers.
+### y: Project contributor y% (tbd)
+  -  This refers to the >64% hour availability/contribution threshold per individual. If you meet this threshold you will be eligible to `company-payout / contributors` percentage.
+### z: Unpaid project/Infrastructure contributor z% (tbd)
+  -  This `z% === y% * 0.5`
+  -  _Ex_: You work on an unpaid project that goes on the CoHive Site Portfolio. When Payroll is divied up you are elligible for a `(company-payout / contributors) / 2` 
+
+## Payment Threshold
 
 ---
 
