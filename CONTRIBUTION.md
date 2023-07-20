@@ -48,4 +48,4 @@ _**Audit a Project**: Members who are not assigned to the team officially are st
 
 
 # [Payment](./PAYMENT.md):
-The mandatory threshold of work/contribution is **>64%** of your estimated weekly availability, this will be monitored by [The Board](./BOARD.md) to designate which members are eligible for payment per **deliverable**. All eligible members will be paid **equal amounts**.
+The mandatory threshold of work/contribution is **>64%** of your estimated weekly availability, this will be monitored by [The Board](./BOARD.md) to designate which members are eligible for payment per **deliverable**. All eligible members will be paid within this [Model](./PAYMENT.md).
