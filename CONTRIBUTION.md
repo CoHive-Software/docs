@@ -1,7 +1,7 @@
 # Contribution Protocol:
 
 - Join the [Discord](https://discord.gg/dmwWw5Rq) (_if this link is expired please open an Issue_)
-  - Standups are held weekly in this server on Wednesdays at 12:00pm (CST)
+  - Standups are held twice weekly in this server, one before Weds. one after Weds, at 12:00pm (CST)
 - Fill out the [CoHive Contributor Weekly Availability](https://docs.google.com/spreadsheets/d/1SJh6vwCMvt3bLdduPu461B226AfwCglzGdHAbSPjDeM/edit?usp=sharing) Google Sheet following the format [here](#Roles) to designate which Roles/Responsibilities you can contribute to.
 - Follow these [steps](#How-to-be-assigned-to-projects) to self-assign to current projects.
 - The Board will follow the below procedure on deploying teams. Teams will need at least one of each of the following:
@@ -32,9 +32,13 @@
    - _BOARD_: Replace "BENCH" label with "DEPLOYED" label as team members are assigned roles and move them to bottom of lane
 4. **Once development teams have been drafted you will be contacted to verify your interest, assigned role and estimated availability**
    - At this time you may **"approve"** and join the team or **"pass"** in which case the member next in the queue will be offered the position.
+5. **From this point on** look to the project's specific channel in the lower portion of the discord server where you and your team will be given Team Discord Roles
+   - This will become the main lane for communication post team initialization.
 
+### NOTE:
 _Once you have been assigned a team, one of the team members will be assigned "Project Manager" role and delegate tasks in the [Trello Workspace](https://trello.com/w/cohivesoftware)_
-
+### NOTE:
+_Members who are not assigned to the team officially are still welcome to observe/contribute on a **volunteer** basis (appreciated, but not counted towards your hourly contribution)_
 
 # Roles:
 | Contributor | Sales | Design | Develop | Document | X | Total Hours |
@@ -43,4 +47,4 @@ _Once you have been assigned a team, one of the team members will be assigned "P
 
 
 # [Payment](./PAYMENT.md):
-The mandatory threshold of work/contribution is **>65%** of your estimated weekly availability, this will be monitored by [The Board](./BOARD.md) to designate which members are eligible for payment per **deliverable**. All eligible members will be paid **equal amounts**.
+The mandatory threshold of work/contribution is **>64%** of your estimated weekly availability, this will be monitored by [The Board](./BOARD.md) to designate which members are eligible for payment per **deliverable**. All eligible members will be paid **equal amounts**.
