@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1690063149/Circle_Logo_Light_Text_Square_q1aowf.png" width="300"/>
+  <img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1690063149/Circle_Logo_Light_Text_Square_q1aowf.png" width="200"/>
 </p>
 <p align="center"><em>CoHive Software General Purpose Monorepo</em></p>
 
