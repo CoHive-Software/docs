@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1690063149/Circle_Logo_Light_Text_Square_q1aowf.png" width="125"/>
+  <img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1690063402/EMAIL_Circle_Logo_Yellow_Font_tp1emb.png" width="225"/>
 </p>
 
 # CoHive Software Meta-Group Documentation
