@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1690063149/Circle_Logo_Light_Text_Square_q1aowf.png" width="300"/>
+</p>
+<p align="center"><em>CoHive Software General Purpose Monorepo</em></p>
+
 # CoHive Software Meta-Group Documentation
 Repository for all organizational documents for CoHive team: Workflows, Responsibilities, Public Assets, Licenses, Conduct
 
