@@ -3,6 +3,7 @@
 </p>
 
 # CoHive Software Company Operations Documentation
+#### CoHive Software LLC is a cooperatively structured Software Consultancy for B2B and B2C Application Development Contract fulfillment
 Repository for all organizational documents for CoHive team: Workflows, Responsibilities, Public Assets, Licenses, Conduct
 
 ## Contribution (How to get a project to work on)
