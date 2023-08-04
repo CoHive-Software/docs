@@ -1,14 +1,24 @@
-# 3 Revenue Stream Model
+# Revenue Structure
 
-All revenue will be funneled into CoHive Payroll Coffers. From there, `x%`, `y%` and `z%` will be distributed based on three separate criteria. 
+### The following procedure will guide utilization of project revenue. Upon receipt of payment, deductions and allocations will be made in the following order and amounts:
 
-### x: Finders fee / making a sale 33% (tbd)
-  -  This will go directly to the individual who has generated the contract and deducted from revenue before entering CoHive Payroll Coffers.
-### y: Project contributor y% (tbd)
-  -  This refers to the >64% hour availability/contribution threshold per individual. If you meet this threshold you will be eligible to `company-payout / contributors` percentage.
-### z: Unpaid project/Infrastructure contributor z% (tbd)
-  -  This share is equivalent to this formula `z% === y% * 0.5`
-  -  _Ex_: You work on an unpaid project that goes on the CoHive Site Portfolio. When Payroll is divied up you are elligible for a `(company-payout / contributors) / 2` 
+1. Deduction, if applicable, of all funds necessary for the payment of project-specific federal, state, or local taxes.
+2. Deduction of all project-specific non-tax expenses. While emphasis will be placed on accurately predicting and quoting project expenses, deductions for this purpose 
+   will be made in full regardless of quoted amount.
+3. Deduction, if deemed necessary by the board, of an ammount not to exceed 5% of project gross revenue and to be used for the payment of non-project-specific company 
+   expenses, or for the maintenance of cash reserves deemed necessary to maintain operational funding in the face of future company expenses. If this allocation is to be 
+   made, all project participants are to be notified before project commencement.
+
+### After all applicable deductions are made, the post-deduction amount will be referred to as the "net project revenue", and allocations to project participants will occur. Allocation of net project revenue will be made in the following order:
+
+4. Allocation of 20% of net project revenue to be made to the person or persons responsible for securing sale of the project.
+5. Allocation of 10% of net project revenue, in equal proportion, to all elligible participants of company projects completed in the 60 days prior to project delivery. 
+     Elligibility will follow the "Payment Threshold" guidelines outlined below in the "Payment Threshold" section.
+6. Allocation of all remaining net project revenue, in equal proportion, to all project participants who have met the requirements outlined below in the "Payment Threshold" section.
+
+Questions regarding the above procedure are encouraged to be directed to Brendan Carmichael via Discord dm.  
+
+
 
 ## Payment Threshold
 
