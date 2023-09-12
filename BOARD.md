@@ -20,7 +20,6 @@
 | GitHub               | Email                          | Name                 |
 | -------------------- | ------------------------------ | -------------------- |
 | @colinwilliams91     | colin.williams.dev@gmail.com   | colin williams       |
-| @codingMustache      | *@codingmustache.dev           | jorge carvajal       |
 | @JessicaTorres-debug | jessicatorres.debug@gmail.com  | jessica torres       |
 | @opsparkbtc          | brendantcarmichael@gmail.com   | brendan carmichael   |
 | @matthewpmi          | mpmekita@gmail.com             | matthew mekita       |
